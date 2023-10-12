@@ -1,1 +1,8 @@
-# SpartaAdvanced
+# 김경환
+## 게임소개
+3D 쿼터뷰 게임
+
+## 구현한 기능
+- FSM : 강의와 거의 비슷한 구조의 FSM
+- Stat : 특정 행동을 통해서 경험치가 쌓이고 property를 사용하여 자동으로 스탯이 증가하며, delegate를 사용하여 연동된 능력치가 상승한다. 
+- HP, Stamin : FSM을 사용하여 특정 상태일 경우 HP와 Stamina가 감소하거나 증가한다.
